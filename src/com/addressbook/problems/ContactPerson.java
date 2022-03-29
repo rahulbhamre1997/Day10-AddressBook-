@@ -79,5 +79,6 @@ public class ContactPerson {
 	public String toString() {
 		return "Person [FirstName=" + FirstName + ", LastName=" + LastName + ", Address=" + Address + ", City=" + City
 				+ ", State=" + State + ", ZIPCode=" + ZIPCode + ", MobileNo=" + MobileNo + ", emailId=" + emailId + "]";
-	}	
+	}
+	
 }
